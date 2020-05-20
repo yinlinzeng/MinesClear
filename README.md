@@ -3,4 +3,4 @@
 
 技术栈：HTML / CSS / JS
 
-[点击此处试玩](https://aabig.github.io/MinesClear/)
+[点击此处试玩](http://114.116.254.46/MinesClear)
